@@ -10,7 +10,7 @@ languages:    [Java]
 solutions:    [Mobile]
 github:       android-Wearable Notifications
 level:        INTERMEDIATE
-api_refs:
+apiRefs:
     - android:android.app.Notification
     - android:android.support.v4.app.NotificationCompat
     - android:android.support.v4.app.NotificationManagerCompat
