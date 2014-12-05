@@ -10,6 +10,7 @@ languages:    [Java]
 solutions:    [Mobile]
 github:       android-Wearable Notifications
 level:        INTERMEDIATE
+icon:         screenshots/ic_launcher.png
 apiRefs:
     - android:android.app.Notification
     - android:android.support.v4.app.NotificationCompat

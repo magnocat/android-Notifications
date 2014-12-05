@@ -7,17 +7,17 @@ Introduction
 ------------
 
 This sample app enables the user to choose a notification type (the selection is done on the phone),
-        which it then displays on the phone and wearable. The notification is built using
-        [NotificationCompat.Builder][1] and [NotificationCompat.WearableExtender][2].
+which it then displays on the phone and wearable. The notification is built using
+[NotificationCompat.Builder][1] and [NotificationCompat.WearableExtender][2].
 
-        See [Creating a Notification][3] for all the details on how to create a notification with wearable features.
+See [Creating a Notification][3] for all the details on how to create a notification with wearable features.
 
-        On the wearable side, the sample also shows how to create a custom layout using [WearableListView][4].
+On the wearable side, the sample also shows how to create a custom layout using [WearableListView][4].
 
-        [1]: http://developer.android.com/reference/android/support/v4/app/NotificationCompat.Builder.html
-        [2]: https://developer.android.com/reference/android/support/v4/app/NotificationCompat.WearableExtender.html
-        [3]: https://developer.android.com/training/wearables/notifications/creating.html
-        [4]: https://developer.android.com/training/wearables/apps/layouts.html#UiLibrary
+[1]: http://developer.android.com/reference/android/support/v4/app/NotificationCompat.Builder.html
+[2]: https://developer.android.com/reference/android/support/v4/app/NotificationCompat.WearableExtender.html
+[3]: https://developer.android.com/training/wearables/notifications/creating.html
+[4]: https://developer.android.com/training/wearables/apps/layouts.html#UiLibrary
 
 Pre-requisites
 --------------
@@ -29,7 +29,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src=screenshots/companion-content-action.png height="400" alt="Screenshot"/> <img src=screenshots/content-action height="400" alt="Screenshot"/> <img src=screenshots/content-icon-menu height="400" alt="Screenshot"/> 
+<img src="screenshots/companion-content-action.png" height="400" alt="Screenshot"/> <img src="screenshots/content-action" height="400" alt="Screenshot"/> <img src="screenshots/content-icon-menu" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
